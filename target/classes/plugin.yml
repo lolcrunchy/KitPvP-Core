@@ -1,0 +1,10 @@
+name: KitpvpCore
+version: 1.0.0
+main: dev.crunchy.kitpvpcore.Main
+softdepend:
+  - PlaceholderAPI
+commands:
+  kitpvp:
+  staffmode:
+  xp:
+  level:
